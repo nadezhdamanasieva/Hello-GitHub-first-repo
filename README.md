@@ -7,10 +7,10 @@ If you see this file on my project, it's because I'm learning Git.
 
 My mood:
 
-> [MOOD Good]
+> [Good]
 
 My favorite color:
 
-> [COLOR blue]
+> [Blue]
 
 Thank you so much for reading! ☺
